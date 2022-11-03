@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Personal Note
 Finally able to re-do it :smile:
+</br> As learned from <a href="https://github.com/CleverProgrammers"> Clever Programmers </a>
 
 ## Available Scripts
 
